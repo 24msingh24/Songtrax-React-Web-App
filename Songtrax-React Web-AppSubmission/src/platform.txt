@@ -1,0 +1,25 @@
+Project Name: My Expo App
+Platform: Expo
+Emulator: Expo Go
+
+## Project Description
+This is a mobile app project developed using Expo, a framework for building cross-platform mobile applications with React Native.
+
+## Setup Instructions
+1. Setup this repository to your local machine.
+
+2. Install Node.js and npm if you haven't using "npm install"
+
+3. Install Expo CLI globally: 
+   ```bash
+   npm install -g expo-cli
+
+###Instructions
+1.Navigate to the project directory and install project dependencies:
+-npm install
+
+2. Start the development server:
+-expo start
+
+3. Scan the QR code with the Expo Go app on your mobile device to run the app. Alternatively, you can run it on an emulator (iOS Simulator or Android Emulator) if needed.
+
